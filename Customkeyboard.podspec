@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Customkeyboard"
-  s.version      = "2.1"
+  s.version      = "2.2"
   s.summary      = "A simple and fast realization of a custom keyboard."
 
   # This description is used to generate tags and improve search results.
